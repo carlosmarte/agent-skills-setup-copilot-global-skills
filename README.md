@@ -1,0 +1,1 @@
+# agent-skills-setup-copilot-global-skills
