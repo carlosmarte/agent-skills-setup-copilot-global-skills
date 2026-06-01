@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "skills": {
+    "claude-symlink-agent-individual-skills": {
+      "source": "carlosmarte/claude-symlink-agent-individual-skills",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/claude-symlink-agent-individual-skills/SKILL.md",
+      "computedHash": "59d6590fbf1ab1b59b0737c89b423269dcfafe9b9fb9ecc156a181c0f6ae4698"
+    },
+    "skill-autofix-spec": {
+      "source": "carlosmarte/agents-skills-pure-skill-autofix-spec",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/skill-autofix-spec/SKILL.md",
+      "computedHash": "774ebd75b408e2af1a98dfe9512304cebc9610006dc2a51ab34046194a7474ba"
+    },
+    "skill-repo-readme": {
+      "source": "carlosmarte/claude-symlink-agent-readme",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/skill-repo-readme/SKILL.md",
+      "computedHash": "f2ce73d4e228c01d5553847abdb2caaa1cca2641e5b322cb6a52addd995a453c"
+    },
+    "skills-lock-gitignore-prune": {
+      "source": "carlosmarte/claude-symlink-agent-ignored-lock-skills",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/skills-lock-gitignore-prune/SKILL.md",
+      "computedHash": "2f7566cbbcbdd6a115221f4acfb861aa11936c4a1f01b68fe9876dd69749753f"
+    }
+  }
+}
